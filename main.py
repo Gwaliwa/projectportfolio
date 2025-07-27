@@ -6,7 +6,7 @@ st.set_page_config(layout="wide")
 col1, col_empty, col2 = st.columns([1.5,0.5,1.5])
 
 with col1:
-    st.image("images/photo.png")
+    st.image("images/photo_01.jpg")
 
 with col2:
     st.title("Gwaliwa Peter Mashaka")
